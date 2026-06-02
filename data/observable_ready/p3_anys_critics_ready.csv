@@ -1,0 +1,18 @@
+﻿any,rendiment,superficie,produccio,z_rend,is_critic,lectura,pluja_context_mm,temp_context_c,etiqueta_pluja,etiqueta_temp
+2008,7030.7758031442245,58520.0,411441.0,-0.29156841173131676,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2009,7946.188178746318,55341.0,439750.0,0.4121293520034937,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2010,8197.438733992087,53333.0,437194.0,0.6052712174357667,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2011,8461.105587964961,53311.0,451070.0,0.8079577666422577,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2012,7051.59151193634,52780.0,372183.0,-0.27556691544617834,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2013,9488.749021901802,52653.2,499613.0,1.5979300301289503,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2014,8609.301267028673,52485.0,451859.177,0.9218790667379712,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2015,8449.720456460136,52228.0,441312.0,0.799205763945656,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2016,7644.655278084434,52538.0,401634.899,0.1803343342130949,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2017,7025.600102077465,52901.0,371661.271,-0.29554708775046407,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2018,8180.901559179222,53169.0,434970.355,0.5925587249630161,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2019,8006.855405078147,53681.0,429816.005,0.45876559228113045,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2020,5752.704871060172,54095.0,311192.57,-1.3132605140401954,True,Any baix amb lectura específica: cal interpretar-lo amb cautela pel context sanitari associat al míldiu.,738.2205128205129,31.578205128205127,Precip. oct-mar,Tmax jul.-ag.
+2021,7810.907488088396,53939.0,421312.539,0.30813608948083393,False,,,,Precip. oct-mar,Tmax jul.-ag.
+2022,6611.332004723945,54192.0,358281.304,-0.6329009887920475,True,Any recent amb rendiment per sota de la mitjana i condicions compatibles amb tensió climàtica.,365.9575,33.241875,Precip. oct-mar,Tmax jul.-ag.
+2023,5135.942864553421,53977.0,277222.788,-1.801970792910029,True,Any de baix rendiment dins la fase recent de tensió climàtica.,248.2325,32.265,Precip. oct-mar,Tmax jul.-ag.
+2024,4567.343872054496,54023.0,246741.618,-2.2525176314922697,True,Punt més baix de la sèrie analitzada i últim any disponible.,336.0075,32.365625,Precip. oct-mar,Tmax jul.-ag.

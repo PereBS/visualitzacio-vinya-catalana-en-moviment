@@ -1,0 +1,31 @@
+﻿period_key,tipus,rank,comarca,sup_inicial,sup_final,delta_ha,pct
+ajust_minim,guany,1,ALT PENEDÈS,16439.0,16681.0,242.0,1.4721090090638116
+ajust_minim,guany,2,URGELL,1130.0,1184.0,54.0,4.778761061946903
+ajust_minim,guany,3,GIRONÈS,35.0,42.0,7.0,20.0
+ajust_minim,guany,4,ALT URGELL,11.0,15.0,4.0,36.36363636363637
+ajust_minim,guany,5,PALLARS SOBIRÀ,1.0,5.0,4.0,400.0
+ajust_minim,perdua,1,ANOIA,2382.0,2208.0,-174.0,-7.304785894206549
+ajust_minim,perdua,2,ALT EMPORDÀ,1924.0,1781.0,-143.0,-7.4324324324324325
+ajust_minim,perdua,3,TERRA ALTA,5990.0,5853.0,-137.0,-2.287145242070117
+ajust_minim,perdua,4,BAIX PENEDÈS,3601.0,3483.0,-118.0,-3.2768675367953346
+ajust_minim,perdua,5,ALT CAMP,5966.0,5855.0,-111.0,-1.8605430774388199
+caiguda_inicial,guany,1,NOGUERA,383.0,418.0,35.0,9.138381201044385
+caiguda_inicial,guany,2,PALLARS JUSSÀ,216.0,242.0,26.0,12.037037037037036
+caiguda_inicial,guany,3,GARRIGUES,701.0,707.0,6.0,0.8559201141226819
+caiguda_inicial,guany,4,PRIORAT,3311.0,3316.0,5.0,0.15101177891875567
+caiguda_inicial,guany,5,ALT URGELL,12.0,15.0,3.0,25.0
+caiguda_inicial,perdua,1,TERRA ALTA,7675.0,6008.0,-1667.0,-21.71986970684039
+caiguda_inicial,perdua,2,ALT PENEDÈS,17466.0,16480.0,-986.0,-5.6452536356349485
+caiguda_inicial,perdua,3,CONCA DE BARBERÀ,4426.0,3878.0,-548.0,-12.381382738364213
+caiguda_inicial,perdua,4,ALT CAMP,6619.0,6114.0,-505.0,-7.629551291735911
+caiguda_inicial,perdua,5,SEGRIÀ,2261.0,1973.0,-288.0,-12.737726669615215
+recuperacio_parcial,guany,1,ALT PENEDÈS,16752.0,17384.0,632.0,3.772683858643744
+recuperacio_parcial,guany,2,ALT CAMP,5958.0,6382.0,424.0,7.11648204095334
+recuperacio_parcial,guany,3,PRIORAT,3349.0,3684.0,335.0,10.002985965959988
+recuperacio_parcial,guany,4,CONCA DE BARBERÀ,3871.0,4001.0,130.0,3.358305347455438
+recuperacio_parcial,guany,5,SEGRIÀ,1794.0,1886.0,92.0,5.128205128205128
+recuperacio_parcial,perdua,1,RIBERA D'EBRE,1168.0,976.0,-192.0,-16.43835616438356
+recuperacio_parcial,perdua,2,ANOIA,2198.0,2056.0,-142.0,-6.46041856232939
+recuperacio_parcial,perdua,3,TERRA ALTA,5969.0,5875.0,-94.0,-1.574803149606299
+recuperacio_parcial,perdua,4,BAIX EBRE,34.0,7.0,-27.0,-79.41176470588235
+recuperacio_parcial,perdua,5,SEGARRA,93.0,67.0,-26.0,-27.956989247311824

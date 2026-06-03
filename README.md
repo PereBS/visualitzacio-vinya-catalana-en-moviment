@@ -6,7 +6,7 @@ Aquesta visualització analitza la reconfiguració recent de la vinya catalana e
 
 ## Enllaç a la visualització
 
-Pendent d'afegir l'enllaç públic a Observable.
+[Obrir la visualització a Observable](https://observablehq.com/d/846746cc9be151d1)
 
 ## Objectiu del projecte
 

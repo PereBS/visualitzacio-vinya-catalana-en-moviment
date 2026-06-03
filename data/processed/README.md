@@ -34,3 +34,31 @@ p2_comarca_varietat_2008_2024_enriched.csv
   Dataset agregat i enriquit derivat de l'eRVC.
   Resumeix la modificació varietal documentada entre 2008 i 2024 per comarca i varietat.
   Aquest fitxer serveix de base per a les visualitzacions de la pregunta P2.
+```
+
+## Relació amb els fitxers d'Observable
+
+Els fitxers d'aquesta carpeta no són necessàriament els que carrega directament la visualització.
+
+Els fitxers preparats específicament per a Observable es troben a:
+
+```text
+data/observable_ready/
+```
+
+Aquesta separació permet distingir entre:
+
+* datasets de base;
+* datasets processats;
+* fitxers adaptats per a la visualització;
+* documentació metodològica del projecte.
+
+## Nota metodològica
+
+La versió `strict` conserva una lectura més directa de les dades disponibles.
+
+La versió `proxy` amplia la cobertura de les variables de temperatura mitjançant un criteri controlat. Aquest proxy s'aplica a variables tèrmiques, no a la precipitació.
+
+La capa eRVC té naturalesa registral. Per aquest motiu, els resultats derivats d'aquesta font s'interpreten com a activitat registral o modificació varietal documentada, no com a recompte exacte d'hectàrees noves, hectàrees úniques o estoc productiu real.
+
+Els indicadors climàtics s'utilitzen amb finalitat exploratòria. La visualització no pretén demostrar causalitat estricta entre clima i rendiment, sinó ajudar a contextualitzar patrons territorials, varietals i productius.

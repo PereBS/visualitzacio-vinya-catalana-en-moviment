@@ -13,8 +13,5 @@ nota_metodologica.md
 fonts_dades.md
   Relació de fonts utilitzades en el projecte.
 
-guio_video.md
-  Estructura prevista del vídeo explicatiu de 4 a 6 minuts.
-
 ```text
 Crea carpeta docs

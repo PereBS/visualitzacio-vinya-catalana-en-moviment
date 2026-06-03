@@ -6,7 +6,7 @@ La visualització principal del projecte es desenvolupa a Observable Notebook i 
 
 ## Enllaç a la visualització
 
-https://observablehq.com/d/846746cc9be151d1
+[Obrir la visualització a Observable](https://observablehq.com/d/846746cc9be151d1)
 
 ## Dades utilitzades per Observable
 
@@ -52,4 +52,5 @@ data/processed/
 
 ## Exportació
 
-En cas que s'inclogui una exportació del notebook Observable, aquesta es guardarà en aquesta carpeta.
+Aquesta carpeta documenta la visualització publicada a Observable. Si s'inclou una exportació del notebook, es guardarà aquí com a còpia complementària.
+

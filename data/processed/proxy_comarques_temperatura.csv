@@ -1,0 +1,21 @@
+﻿comarca_target,comarca_source,confiança,justificacio,source_te_temp_completa
+BAIX EBRE,ALT CAMP,baixa-mitjana,"proxy provisional; candidat usable entre fonts amb temperatura completa, però no fortament reforçat per l'Atles",True
+BAIX EMPORDÀ,GIRONÈS,mitjana,coherència territorial i climàtica al nord-est; més defensable que alternatives més continentals,True
+BERGUEDÀ,OSONA,alta,cas bastant net; perfil interior-prepirinenc coherent i bon ajust,True
+CERDANYA,PALLARS SOBIRÀ,baixa,proxy provisional de muntanya; cas singular i no fortament confirmat per l'Atles,True
+CONCA DE BARBERÀ,URGELL,baixa-mitjana,millor candidat de la segona ronda; decisió provisional pendent de revisió final,True
+GARRAF,BAIX LLOBREGAT,mitjana,validat amb l'Atles com a franja litoral càlida; preferible a proxies més interiors,True
+GARRIGUES,NOGUERA,mitjana,coherència amb el patró continental de Ponent i inversions hivernals,True
+GARROTXA,GIRONÈS,baixa,proxy conservador i territorialment defensable; cas feble,True
+LA SELVA,GIRONÈS,mitjana-baixa,proximitat territorial i coherència regional; cas amb menys informació auxiliar,True
+MARESME,BAIX LLOBREGAT,mitjana,validat amb l'Atles per patró litoral càlid; s'evita Barcelonès per l'illa de calor urbana,True
+MONTSIÀ,BAIX CAMP,mitjana,més plausible per context mediterrani sud que alternatives metropolitanes,True
+PLA D'URGELL,URGELL,mitjana,més coherent per plana interior de Ponent que MOIANÈS,True
+PLA DE L'ESTANY,GIRONÈS,mitjana,proximitat territorial i coherència regional al nord-est,True
+PRIORAT,ALT CAMP,alta,cas bastant net i territorialment defensable,True
+RIPOLLÈS,PALLARS SOBIRÀ,mitjana,substitució final per assegurar cobertura completa de tots els anys del target; alternativa de muntanya amb millor solapament anual,True
+SEGARRA,NOGUERA,baixa-mitjana,millor encaix tèrmic interior-continental que alternatives prelitorals,True
+SOLSONÈS,PALLARS SOBIRÀ,baixa-mitjana,substitució final per assegurar cobertura completa de tots els anys del target; millor candidat elegible restant per al proxy tèrmic,True
+TARRAGONÈS,ALT CAMP,mitjana-alta,adjacència i coherència prelitoral/litoral sud,True
+TERRA ALTA,ALT CAMP,mitjana-baixa,proxy operatiu més defensable que opcions clarament continentals; cas a revisar,True
+VALLÈS OCCIDENTAL,VALLÈS ORIENTAL,baixa-mitjana,continuïtat territorial i fisiogràfica preferible a ALT CAMP,True
